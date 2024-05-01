@@ -1,0 +1,7 @@
+python-dotenv==1.0.1
+pandas==2.2.1
+ipykernel==6.25.2
+dspy-ai==2.4.5
+arize-phoenix==3.22.0
+openinference-instrumentation-dspy==0.1.6
+opentelemetry-exporter-otlp==1.24.0
